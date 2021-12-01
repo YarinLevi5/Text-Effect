@@ -1,0 +1,33 @@
+body {
+    background-color: lightpink;
+    font-family: Verdana,
+        Geneva,
+        Tahoma,
+        sans-serif;
+}
+
+.elem {
+    height: 480px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: white;
+    font-weight: 600;
+}
+
+.innerDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textSpeed {
+    width: 40px;
+    border: 2px solid black;
+    border-radius: 12px;
+    font-size: 15px;
+    margin-left: 10px;
+    padding: 5px;
+    background-color: lightslategray;
+}
